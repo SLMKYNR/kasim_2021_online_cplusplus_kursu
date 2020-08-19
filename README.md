@@ -8,7 +8,7 @@
 + Kurs eğitmeni **Necati Ergin**'dir.
 
 ## Kursla ilgili bağlantılar:
-+ [Kursun Genel Tanıtımı](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-tanıtımı.md)
++ [Kursun Genel Tanıtımı](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/kurs_tanitimi.md)
 + [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/sss.md)
 
