@@ -9,7 +9,7 @@
 
 ## Kursla ilgili bağlantılar:
 + [Kursun Genel Tanıtımı](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/kurs_tanitimi.md)
-+ [Kurs İçeriği](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)
++ [Kurs İçeriği](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/kurs_icerigi.md)
 + [Sık Sorulan Sorular](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/sss.md)
 
 [Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p)
