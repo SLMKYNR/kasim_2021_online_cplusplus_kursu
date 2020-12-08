@@ -11,14 +11,14 @@
 + C++20
 + eski C++ ve modern C++
 
-## C Dili ve C++ İçindeki C Dili `(C in C++)`
+## C Dili ve C++ İçindeki C Dili _(C in C++)_
 + C dilinden C++ diline geçiş
 + işlev bildirimleri ve tanımlamalarına ilişkin farklılıklar
 + türlere ve tür dönüşümlerine ilişkin farklılıklar
 + C’de geçerli C++’da geçersiz durumlar
 + C99 ve C++
 
-## Temel Kavramlar `(Basic Concepts)`
+## Temel Kavramlar _(Basic Concepts)_
 + tamamlanmış ve eksik türler `(complete & incomplete types)`
 + tek tanımlama kuralı `(one definition rule)`
 + ifadelerin değer kategorileri `(value categories)`
