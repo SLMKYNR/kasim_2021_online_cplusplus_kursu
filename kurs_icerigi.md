@@ -29,7 +29,7 @@
 + erişim kontrolü `(access control)`
 + çift anlamlılık hatası `(ambiguity)`
 
-## İlk Değer Verme `(Initialization)`
+## İlk Değer Verme _(Initialization)_
 + eş biçimli ilk değer verme `(uniform initialization)`
   + daraltıcı dönüşümler `(narrowing conversions)`
   + `most vexing parse`
@@ -39,27 +39,27 @@
 + varsayılan ilk değer verme `(default initialization)`
 + bileşiklere ilk değer verme `(aggregate initialization)`
 
-## Tür Çıkarımı `(Type Deduction)`
+## Tür Çıkarımı _(Type Deduction)_
 + auto belirteci ile tür çıkarımı `(auto type deduction)`
 + decltype belirteci ile tür çıkarımı `(decltype type deduction)`
 + sonradan gelen geri dönüş türü `(trailing  return type)`
 + auto geri dönüş değeri türü `(auto return type)`
 
-## enum Sınıfları `(enum Classes)`
+## enum Sınıfları _(enum Classes)_
 + geleneksel enum türleri `(conventional enum types)`
 + baz tür seçimi `(underlying type)'
 + tür dönüşümleri `(type conversions)`
 + enum sınıfları ve kapsam `(enum classes & scope)`
 
-## Sabit İfadeleri `(Constant Expressions)`
+## Sabit İfadeleri _(Constant Expressions)_
 + const anahtar sözcüğü ve const semantiği
 + const nesneler
 + constexpr anahtar sözcüğü
 + constexpr işlevler
 
-## İşlevlerin Varsayılan Argüman Alması `(Default Arguments)`
+## İşlevlerin Varsayılan Argüman Alması _(Default Arguments)_
 
-## Referans Semantiği `(Reference Semantics)`
+## Referans Semantiği (Reference Semantics)
 + sol taraf referansları `(L value references)`
 + sağ taraf referansları `(R value references)`
 + referanslar ve const semantiği `(references & const semantics)`
@@ -67,20 +67,20 @@
 + parametresi referans olan işlevler
 + referans döndüren işlevler
 
-## İşlev Yüklemesi `(Function Overloading)`
+## İşlev Yüklemesi _(Function Overloading)_
 + genel kurallar
 + yüklenmiş işlev çözümlenmesi `(function overload resolution)`
 + const yüklemesi `(const overloading)`
 + extern “C” bildirimi
 + işlev yüklemesinde dikkat edilmesi gereken durumlar
 
-## Tür Dönüştürme Operatörleri `(Type-cast Operators)`
+## Tür Dönüştürme Operatörleri _(Type-cast Operators)_
 + static_cast<> operatörü
 + const_cast<> operatörü
 + reinterpret_cast<> operatörü
 + dynamic_cast<> operatörü `(kalıtım başlığı altında)`
 
-## Sınıflara giriş
+## Sınıflara giriş _(Introduction to Classes)_
 + sınıf kapsamı `(class scope)`
 sınıflar ve isim arama `(name lookup)`
 + erişim kontrolü `(access control)` ve veri gizleme `(data hiding)`
@@ -117,7 +117,7 @@ sınıflar ve isim arama `(name lookup)`
   + sınıflara friend bildirimi
   + attorney client idiyomu
 
-## Sınıfların Özel Üye İşlevleri ve Kopyalama İşlemleri `Special Member Functions & Copy Control)`
+## Sınıfların Özel Üye İşlevleri ve Kopyalama İşlemleri _(Special Member Functions & Copy Control)_
 + sınıfların özel işlevleri
   + default constructor `(varsayılan kurucu işlev)`
   + destructor `(sonlandırıcı işlev)`
@@ -133,7 +133,8 @@ sınıflar ve isim arama `(name lookup)`
 + kopyala takas et idiyomu `(copy & swap idiom)`
 + kopyalamanın eliminasyonu `(copy elision)`
   + zorunlu kopyalama eliminasyonu `(mandatory copy elision)`
-## Operatör Yüklemesi `(Operator Overloading)`
+
+## Operatör Yüklemesi _(Operator Overloading)_
 + operatör yüklemesine ilişkin genel kurallar
 + üye operatör fonksiyonları
 + global operatör fonksiyonları
@@ -146,7 +147,7 @@ sınıflar ve isim arama `(name lookup)`
 + tür dönüştürme operatör fonksiyonları `(type-cast operator functions)`
 + programcının tanımladığı sabitler `(user-defined literals)`
 
-## Dinamik Ömürlü Nesneler `(Dynamic Objects)`
+## Dinamik Ömürlü Nesneler _(Dynamic Objects)_
 + new ve delete ifadeleri `(new & delete expressions)` 
 + new[] ve delete [] ifadeleri
 + operator new işlevleri
@@ -157,11 +158,11 @@ sınıflar ve isim arama `(name lookup)`
 + placement new operatörleri
 + nothrow new
 
-## Tür Eş İsimleri `(Type Alias)`
+## Tür Eş İsimleri _(Type Alias)_
 + typedef bildirimleri
 + using bildirimleri
 
-## İsim Alanları `(Namespaces)`
+## İsim Alanları _(Namespaces)_
 + isim alanlarının oluşturulması
 + isim alanları ve isim arama `(namespaces & name lookup)` 
 + çözünürlük operatörü ve isim alanları `(scope resoşution operator & namespaces)` 
@@ -174,7 +175,7 @@ sınıflar ve isim arama `(name lookup)`
 + isim alanı eş ismi `(namespace alias)`
 + işlev yüklemesi ve isim alanları `(function overloading & namespaces)` 
 
-## Sınıflar ve Kalıtım `(Classes & Inheritance)`
+## Sınıflar ve Kalıtım _(Classes & Inheritance)_
 + nesne yönelimli programlama ve kalıtım `(OOP & inheritance)`
 + public kalıtımı `(public inheritance)`
 + çalışma zamanı çok biçimliliği `(runtime polymorphism)`
@@ -198,9 +199,9 @@ sınıflar ve isim arama `(name lookup)`
 + private kalıtımı `(private inheritance)`
 + protected kalıtımı `(protected inheritance)`
 + sınıf içi using bildirimi 
-+ kalıtımla alınan kurucu işlev `(inherited constructor)`
++ kalıtımla alınan kurucu işlevler `(inherited constructors)`
 
-## Olağan Dışı Durumların İşlenmesi `(Exception Handling)`
+## Olağan Dışı Durumların İşlenmesi _(Exception Handling)_
 + exception güvenliği `(exception safety) `
 + hata nesnelerinin gönderilmesi `(throwing exception objects)`
   + throw deyimi `(throw statement)`
@@ -251,7 +252,7 @@ sınıflar ve isim arama `(name lookup)`
 + std::exception_ptr
 + std::rethrow_exception
 
-## Çalışma Zamanında Tür Belirlenmesi `(RTTI)`
+## Çalışma Zamanında Tür Belirlenmesi _(RTTI)_
 + dynamic_cast operatörü
 + typeid operatörü
 + std::typeinfo sınıfı
@@ -268,17 +269,17 @@ sınıflar ve isim arama `(name lookup)`
 + sayısal dönüşüm işlevleri
 + small string optimization
 
-## Bileşik Nesneler `(composition)`
+## Bileşik Nesneler _(Composition)_
 + öğe olan nesneler ve özel işlevler, kopyalama kontrolü.
 + öğe olan nesneler ve erişim kontrolü
 + bileşik nesnelerin kullanıldığı temalar
 
-## İçsel türler `(Type Members)`
+## İçsel türler _(Type Members)_
 + sınıf içinde yapılan eş isim bildirimleri
 + içsel sınıflar `(nested classes)`
 + `pimpl` idiyomu
 
-## Şablonlar `(Templates)`
+## Şablonlar _(Templates)_
 + şablon tür parametreleri `(template type parameters)`
 + şablon sabit parametreleri `(template non-type parameters)`
 + şablon şablon parametreleri `(template template parameters)`
@@ -301,7 +302,7 @@ sınıflar ve isim arama `(name lookup)`
 + değişken şablonları `(variable templates)`
 + eş isim şablonları `(alias templates)`
 
-## İteratörler `(iterators)`
+## İteratörler _(Iterators)_
 + aralık kavramı `(ranges)`
 + iteratörlerin kategorileri `(iterator categories)`
   + input iterator
@@ -331,7 +332,7 @@ sınıflar ve isim arama `(name lookup)`
     + insert_iterator
 + iterator traits
 
-## Kaplar`(Containers)`
+## Kaplar _(Containers)_
 + STL kapları ve veri yapıları `(STL containers & data structures) `
 + sıralı kaplar `(sequence containers)`
   + std::vector
@@ -353,12 +354,12 @@ sınıflar ve isim arama `(name lookup)`
 + kapların tür öğeleri `(type members of containers)`
 + kapların emplace işlevleri
 
-## Kap Uyumlandırıcıları `(Container Adaptors)`
+## Kap Uyumlandırıcıları _(Container Adaptors)_
 + stack
 + queue
 + priority_queue
 
-## Algoritmalar `(Algorithms)`
+## Algoritmalar _(Algorithms)_
 + algoritmaların temel özellikleri ve genel ilkeler
 + salt okuyan algoritmalar `non-modifying algorithms)`
 + kap öğelerini değiştiren algoritmalar `(modifying algorithms)`
@@ -368,7 +369,7 @@ sınıflar ve isim arama `(name lookup)`
 + nümerik algoritmalar `(numeric algorithms)`
 + algoritmaların lambda ifadelerini kullanması
 
-## Lambda İfadeleri `(Lambda Expressions)`
+## Lambda İfadeleri _(Lambda Expressions)_
 + kapanış türleri ve kapanış nesneleri `(closure types and closure objects)`
 + lambda ifadeleri ve tür çıkarımı `(lambda expressions and type deduction)`
 + lambda yakalama ifadeleri `(lambda captures)`
@@ -379,18 +380,20 @@ sınıflar ve isim arama `(name lookup)`
 + trailing return type
 + genelleştirilmiş lambda ifadeleri `(generalized lambda expressions)`
 + algoritmalarda lambda ifadelerinin kullanımı
++ lambda ifadeleri C++11/14/17/20
++ lambda isiyomları
 
-## Akıllı Gösterici Sınıfları `(Standard Smart Pointer Classes)`
+## Akıllı Gösterici Sınıfları _(Standard Smart Pointer Classes)_
 + unique_ptr sınıfı
-+ std::make_unique işlev şablonu
-+ std::default_delete ve custom deleters
-+ tipik hatalar
+  + std::make_unique işlev şablonu
+  + std::default_delete ve custom deleters
+  + tipik hatalar
 + shared_ptr sınıfı
-+ referans sayımı `(reference counting)`
-+ std::make_shared
-+ weak_ptr sınıfı
+  + referans sayımı `(reference counting)`
+  + std::make_shared işlev şablonu
+  + weak_ptr sınıfı
 
-## Standart Giriş Çıkış Kütüphanesi `(iostream Library)`
+## Standart Giriş Çıkış Kütüphanesi _(iostream Library)_
 + giriş çıkış akımlarına ilişkin standart sınıflar `(standard stream classes)`
 + global akım nesneleri 
 + formatlı giriş çıkış işlemleri `(formatted input output)`
