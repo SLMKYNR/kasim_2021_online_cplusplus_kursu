@@ -6,7 +6,7 @@
 
 + __C++__ programlama dilinin temel sentaksı ve semantik yapısı ayrıntılı olarak öğretilmektedir.
 
-+ Kursta __Modern C++__ anlatılmaktadır. _C++11_, _C++14_ ve _C++17_ standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. _C++20_ standartları ise kursta 
++ Kursta __Modern C++__ anlatılmaktadır. _C++11_, _C++14_ ve _C++17_ standartları ile dile eklenen sentaks öğeleri ve standart kütüphane bileşenleri eğitimde ayrıntılı olarak ele alınmaktadır. _C++20_ standartları hakkında genel bilgiler verilmektedir.
 
 + __C++__ dilinin standart kütüphanesi ve bu kütüphanenin en önemli bileşeni olan __STL (Standard Template Library)__ ayrıntılı bir şekilde ele alınmaktadır.
 
