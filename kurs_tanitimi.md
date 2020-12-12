@@ -66,7 +66,7 @@ __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle payl
 Programın toplam ücreti __3.600 TL__'dir. Öğrenci olanlar için kurs ücreti 3.200 TL'dir. Katılımcılar, eğitim programı ücretini dilerlerse __2__ taksitte ödeyebilirler.
 
 ## Eğitim Programına Kayıt
-__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZIufumqqDopG9FiVZvOJXKkhQYGvYXAPN4p)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
+__[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAlce-rpj0qHNDjdqFRmoPwMSW9rH1qY3TU)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
 ## Sık Sorulan Sorular
 __C++__ Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını __[sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md)__ sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[Necati Ergin ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)__
