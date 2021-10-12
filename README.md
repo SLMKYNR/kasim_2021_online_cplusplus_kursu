@@ -4,7 +4,7 @@
 + Kurs __6 Kasım 2021 Cumartesi__ günü başlayacaktır.
 + Dersler __Cumartesi ve Pazar__ günleri saat __09.00-13.00__ arasında yapılacaktır.
 + Kursun toplam süresi __180__ saattir.
-+ Programın toplam ücreti **4.500 TL**'dir. Öğrenci olanlar için kurs ücreti **4.000 TL**'dir. Katılımcılar, eğitim programı ücretini dilerlerse **2** taksitte ödeyebilirler.
++ Programın toplam ücreti **4.500 TL**'dir. Öğrenci olanlar için kurs ücreti **4.000 TL**'dir. 
 + Kurs eğitmeni **Necati Ergin**'dir.
 
 ## Kursla ilgili bağlantılar:
