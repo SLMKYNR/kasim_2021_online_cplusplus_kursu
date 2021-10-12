@@ -63,7 +63,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında [Tübitak](https://www.t
 __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __4.500 TL__'dir. Öğrenci olanlar için kurs ücreti 4.000 TL'dir. Katılımcılar, eğitim programı ücretini dilerlerse __2__ taksitte ödeyebilirler.
+Programın toplam ücreti __4.500 TL__'dir. Öğrenci olanlar için kurs ücreti 4.000 TL'dir. 
 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZcldOGoqz8iHdaXA2hgmumQHwZ_f1R3WQTo)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
