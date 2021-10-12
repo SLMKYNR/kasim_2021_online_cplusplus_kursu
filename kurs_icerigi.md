@@ -1,7 +1,7 @@
 # Online C++ Kursu İçeriği
 
 ## C++ Dilinin Genel Tanıtımı
-+ C++ dilinin tarihçesi
++ C++ dilinin tarihçesi _(history of C++)_
 + C++ dili ve programlama paradigmaları
 + C++ dili standartları
 + C++98 – 03
@@ -109,13 +109,13 @@ sınıflar ve isim arama _(classes & name lookup)_
   + const üye fonksiyonlar _(const member fuctions)_
 + geçici sınıf nesneleri _(temporary objects)_
 + otomatik tür dönüşümleri _(implicit type conversions)_
-+ mutable anahtar sözcüğü
++ mutable anahtar sözcüğü _(mutable keyword)_
 + friend bildirimi _(friend declarations)_ 
-  + friend bildirimi ve veri gizleme
-  + global işlevlere friend bildirimi
+  + friend bildirimi ve veri gizleme _(friend declarations)_
+  + global işlevlere friend bildirimi 
   + sınıfların üye işlevlerine friend bildirimi
   + sınıflara friend bildirimi
-  + attorney client idiyomu
+  + avukat-müvekkil idiyomu _(attorney-client idiom)_
 
 ## Sınıfların Özel Üye İşlevleri ve Kopyalama İşlemleri _(Special Member Functions & Copy Control)_
 + sınıfların özel işlevleri
@@ -137,7 +137,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 ## Operatör Yüklemesi _(Operator Overloading)_
 + operatör yüklemesine ilişkin genel kurallar
 + üye operatör fonksiyonları
-+ global operatör fonksiyonları
++ global operatör fonksiyonları _(global operator functions)_
 + aritmetik operatörlerin yüklenmesi
 + karşılaştırma operatörlerinin yüklenmesi
 + "++" ve "--" operatörlerinin yüklenmesi
@@ -183,7 +183,7 @@ sınıflar ve isim arama _(classes & name lookup)_
   + saf sanal işlevler _(pure virtual function)_
   + sanal sonlandırıcı işlev _(virtual destructor)_
   + sanal kurucu işlev idiyomu _(virtual constructor idiom)_
-  + override bağlamsal anahtar sözcüğü
+  + override bağlamsal anahtar sözcüğü _(override contextual keyword)_
   + nesne dilimlenmesi _(object slicing)_
   + sanal olmayan arayüz idiyomu _(non-virtual interface idiom)_
 + final bağlamsal anahtar sözcüğü _(final contextual keyword)_ 
@@ -395,7 +395,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 
 ## Standart Giriş Çıkış Kütüphanesi _(iostream Library)_
 + giriş çıkış akımlarına ilişkin standart sınıflar _(standard stream classes)_
-+ global akım nesneleri 
++ global akım nesneleri _(global stream objects)_
 + formatlı giriş çıkış işlemleri _(formatted input output)_
 + << ve >> operatörlerinin yüklenmesi _(inserter & extractors)_
 + formatlama ve formatlama işlemleri _(formatting)_
@@ -404,7 +404,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 + string akımları _(stringstreams)_
 + dosya işlemleri _(file operations)_
 + formatsız giriş ve çıkış işlemleri _(unformatted input output)_
-+ bellek üstünde yapılan giriş çıkış işlemleri
++ bellek üstünde yapılan giriş çıkış işlemleri _(in-memory input/output operations)_
 
 ## Bazı önemli STL Öğelerinin Tanıtımı
 + std::pair
@@ -437,12 +437,12 @@ sınıflar ve isim arama _(classes & name lookup)_
 + alignas belirteci _(alignas specifier)_
 + alignof operatörü _(alignof operator)_
 + yapısal bağlama _(structural binding) (C++17)_
-+ attribute’lar
++ attribute’lar _(attributes)_
 
 ## Concurrency
 + memory model
 + thread’ler ve thread yönetimi
-+ std::this_thread isim alanı
++ std::this_thread isim alanı _(this\_thread namespace)_
 + data race kavramı ve data_race’den kaçınma
 + standart mutex sınıfları ve mutex işlemleri
 + lock_guard ve unique_lock sınıfları
@@ -452,4 +452,4 @@ sınıflar ve isim arama _(classes & name lookup)_
 + atomik türler _(atomic types)_
 + görev tabanlı _(task based)_ programlama
 + std::packaged_task sınıfı
-+ paralel STL algoritmaları
++ paralel STL algoritmaları _(parallel STL algoerithms)__
