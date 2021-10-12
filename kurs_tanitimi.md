@@ -57,7 +57,7 @@ __Necati Ergin__'in eğitim verdiği kurumlar arasında [Tübitak](https://www.t
 
 + Eğitim dili Türkçe’dir. Programlama ve __C++__ Dili ile ilgili tüm terimlerin doğru İngilizce karşılıkları öğretilmekte, öğrenciler teknik ve doğru bir terminoloji kullanmaya teşvik edilmektedir.
 
-+ Öğrenciler kaçırdıkları dersleri ders tarihini izleyen __3__ gün içinde kendilerine verilecek şifre ile __Vimeo__ üzerinden izleyebilirler.
++ Öğrenciler kaçırdıkları dersleri kurs takip sistemimizi kullanarak kendilerine verilecek parola  ile __Vimeo__ üzerinden izleyebilirler.
 
 ## Eğitim Materyalleri
 __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
