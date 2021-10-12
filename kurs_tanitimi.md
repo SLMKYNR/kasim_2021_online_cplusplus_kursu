@@ -1,6 +1,6 @@
 # Online C++ Kursu
 
-+ Bu kurs Plepa Eğitim Hizmetleri tarafından [C ve Sistem Programcıları Derneği](www.csystem.org) işbirliği ile düzenlenmektedir. 
++ Bu kurs __Plepa Eğitim Hizmetleri__ tarafından düzenlenmektedir. 
 
 + Bu kurs katılımcıların öncelikle __C++__ programlama dilini çok iyi öğrenmelerini ve yazılım üretiminde profesyonel düzeyde bu dili kullanma becerisi edinmelerini hedeflemektedir.
 
@@ -22,7 +22,7 @@
 Bu kursta __C++__ dilinin _C_ dilinden aldığı temel sentaks ve araçlar anlatılmadığından bu programa katılabilmek için belirli seviyede _C_ bilmeniz gerekmektedir. Programa uygun olup olmadığınız konusunda şüpheleriniz varsa __[Necati Ergin](https://www.linkedin.com/in/necati-ergin-045768176/)__ ile görüşebilirsiniz.
 
 ## Eğitim Süresi
-Programın toplam süresi __160__ saattir. 
+Programın toplam süresi __180__ saattir. 
 
 ## Ders Günleri ve Saatleri
 Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında __4’er saat__ olarak yapılacaktır.
@@ -68,5 +68,3 @@ Programın toplam ücreti __3.600 TL__'dir. Öğrenci olanlar için kurs ücreti
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZAlce-rpj0qHNDjdqFRmoPwMSW9rH1qY3TU)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
 
-## Sık Sorulan Sorular
-__C++__ Kursu hakkında sormak istediğiniz soruların bir kısmının yanıtlarını __[sık sorulan sorular](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/sss.md)__ sayfasında bulabilirsiniz. Burada yanıtını bulamadığınız sorular için doğrudan __[Necati Ergin ile iletişime geçebilir](https://www.linkedin.com/in/necati-ergin-045768176/)__ ya da ona bir __[e-posta mesajı gönderebilirsiniz](mailto:necatiergin2019@gmail.com)__
