@@ -159,8 +159,8 @@ sınıflar ve isim arama _(classes & name lookup)_
 + nothrow new
 
 ## Tür Eş İsimleri _(Type Alias)_
-+ typedef bildirimleri
-+ using bildirimleri
++ typedef bildirimleri _(typedef declarations)_
++ using bildirimleri _(using declarations)_
 
 ## İsim Alanları _(Namespaces)_
 + isim alanlarının oluşturulması
@@ -198,7 +198,7 @@ sınıflar ve isim arama _(classes & name lookup)_
   + çoklu kalıtımda kopyalama ve taşıma işlemleri
 + private kalıtımı _(private inheritance)_
 + protected kalıtımı _(protected inheritance)_
-+ sınıf içi using bildirimi 
++ sınıf içi using bildirimi _(using declarations in class definitions)_
 + kalıtımla alınan kurucu işlevler _(inherited constructors)_
 
 ## Olağan Dışı Durumların İşlenmesi _(Exception Handling)_
@@ -206,8 +206,8 @@ sınıflar ve isim arama _(classes & name lookup)_
 + hata nesnelerinin gönderilmesi _(throwing exception objects)_
   + throw deyimi _(throw statement)_
   + rethrow deyimi _(rethrow statement)_
-+ try blokları
-+ catch blokları
++ try blokları _(try blocks)_
++ catch blokları _(cathc blocks)_
   + catch all
 + yakalanamayan hata nesnesi _(uncaught exception)_
 + std::terminate
@@ -252,7 +252,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 + std::exception_ptr
 + std::rethrow_exception
 
-## Çalışma Zamanında Tür Belirlenmesi _(RTTI)_
+## Çalışma Zamanında Tür Belirlenmesi _(run-time type information)_
 + dynamic_cast operatörü
 + typeid operatörü
 + std::typeinfo sınıfı
@@ -381,7 +381,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 + genelleştirilmiş lambda ifadeleri _(generalized lambda expressions)_
 + algoritmalarda lambda ifadelerinin kullanımı
 + lambda ifadeleri C++11/14/17/20
-+ lambda isiyomları
++ lambda idiyomları _(lambda idioms)_
 
 ## Akıllı Gösterici Sınıfları _(Standard Smart Pointer Classes)_
 + unique_ptr sınıfı
