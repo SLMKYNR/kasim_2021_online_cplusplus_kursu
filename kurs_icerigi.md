@@ -19,20 +19,20 @@
 + C99 ve C++
 
 ## Temel Kavramlar _(Basic Concepts)_
-+ tamamlanmış ve eksik türler `(complete & incomplete types)`
-+ tek tanımlama kuralı `(one definition rule)`
-+ ifadelerin değer kategorileri `(value categories)`
-+ tanımsız davranış `(undefined behavior)`
-+ derleyiciye bağlı davranışlar. `(implementation defined & implementaion specified)`
-+ derleyici eklentileri `(compiler extensions)`
-+ kapsam `(scope)` ve isim arama `(name lookup)`
-+ erişim kontrolü `(access control)`
-+ çift anlamlılık hatası `(ambiguity)`
++ tamamlanmış ve eksik türler _(complete & incomplete types)_
++ tek tanımlama kuralı _(one definition rule)_
++ ifadelerin değer kategorileri _(value categories)_
++ tanımsız davranış _(undefined behavior)_
++ derleyiciye bağlı davranışlar. _(implementation defined & implementaion specified)_
++ derleyici eklentileri _(compiler extensions)_
++ kapsam ve isim arama _(scope & name lookup)_
++ erişim kontrolü _(access control)_
++ çift anlamlılık hatası _(ambiguity)_
 
 ## İlk Değer Verme _(Initialization)_
-+ eş biçimli ilk değer verme `(uniform initialization)`
-  + daraltıcı dönüşümler `(narrowing conversions)`
-  + `most vexing parse`
++ eş biçimli ilk değer verme _(uniform initialization)_
+  + daraltıcı dönüşümler _(narrowing conversions)_
+  + _most vexing parse_
 + doğrudan ilk değer verme `(direct intialization)`
 + değerle başlatma `value initialization`
 + kopyalama ile ilk değer verme `(copy initialization)`
@@ -53,17 +53,17 @@
 
 ## Sabit İfadeleri _(Constant Expressions)_
 + const anahtar sözcüğü ve const semantiği
-+ const nesneler
-+ constexpr anahtar sözcüğü
++ const nesneler _(const objects)_
++ constexpr anahtar sözcüğü _(constexpr specifier)_
 + constexpr işlevler
 
 ## İşlevlerin Varsayılan Argüman Alması _(Default Arguments)_
 
 ## Referans Semantiği (Reference Semantics)
-+ sol taraf referansları `(L value references)`
-+ sağ taraf referansları `(R value references)`
-+ referanslar ve const semantiği `(references & const semantics)`
-+ referanslar ile göstericilerin `(pointer)` karşılaştırılması
++ sol taraf referansları _(L value references)_
++ sağ taraf referansları _(R value references)_
++ referanslar ve const semantiği _(references & const semantics)_
++ referanslar ile göstericilerin karşılaştırılması
 + parametresi referans olan işlevler
 + referans döndüren işlevler
 
