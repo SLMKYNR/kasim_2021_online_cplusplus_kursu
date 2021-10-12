@@ -40,7 +40,7 @@ Dersler __Cumartesi ve Pazar__ günleri __09.00 – 13.00__ saatleri arasında _
 
 
 ## Eğitim İçeriği
-__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/CSD-1993/Online-Cplusplus-Kursu/blob/master/kurs-icerigi.md)__
+__[Eğitim içeriğini bu bağlantıdan görebilirsiniz.](https://github.com/necatiergin/kasim_2021_online_cplusplus_kursu/blob/master/kurs_icerigi.md)__
 
 ## Eğitmen
 Kurs eğitmeni __Necati Ergin__, 1995 yılından bu yana __C ve Sistem Programcıları Derneği__'nde eğitmen olarak görev yapmaktadır. __C ve C++__ dillerinde aktif olarak uygulamalar geliştiren `Necati Ergin`, 100’ün üstünde şirket ve kuruma _C, C++, Veri Yapıları ve Algoritmalar, STL, Tasarım Kalıpları_ konularında eğitim vermiştir. 
