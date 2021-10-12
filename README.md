@@ -1,10 +1,10 @@
 ## Online C++ Kursu
 
-+ Bu kurs _Plepa Eğitim Hizmetleri_ ve [C ve Sistem Programcıları Derneği](http://www.csystem.org/) işbirliği ile düzenlenmektedir.
-+ Kurs __9 Ocak 2021 Cumartesi__ günü başlayacaktır.
++ Bu kurs _Plepa Eğitim Hizmetleri_ tarafından düzenlenmektedir.
++ Kurs __6 Kasım 2021 Cumartesi__ günü başlayacaktır.
 + Dersler __Cumartesi ve Pazar__ günleri saat __09.00-13.00__ arasında yapılacaktır.
-+ Kursun toplam süresi __160__ saattir.
-+ Programın toplam ücreti **3.600 TL**'dir. Öğrenci olanlar için kurs ücreti **3.200 TL**'dir. Katılımcılar, eğitim programı ücretini dilerlerse **2** taksitte ödeyebilirler.
++ Kursun toplam süresi __180__ saattir.
++ Programın toplam ücreti **4.500 TL**'dir. Öğrenci olanlar için kurs ücreti **4.000 TL**'dir. Katılımcılar, eğitim programı ücretini dilerlerse **2** taksitte ödeyebilirler.
 + Kurs eğitmeni **Necati Ergin**'dir.
 
 ## Kursla ilgili bağlantılar:
