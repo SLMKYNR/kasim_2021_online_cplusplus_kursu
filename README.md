@@ -12,4 +12,4 @@
 + [Kurs İçeriği](https://github.com/necatiergin/eylul_2020_online_cplusplus_kursu/blob/master/kurs_icerigi.md)
 
 
-[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZAlce-rpj0qHNDjdqFRmoPwMSW9rH1qY3TU)
+[Kursa kayıt olmak için bu bağlantıyı kullanabilirsiniz.](https://us02web.zoom.us/meeting/register/tZcldOGoqz8iHdaXA2hgmumQHwZ_f1R3WQTo)
