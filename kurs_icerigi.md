@@ -2,20 +2,20 @@
 
 ## C++ Dilinin Genel Tanıtımı
 + C++ dilinin tarihçesi _(history of C++)_
-+ C++ dili ve programlama paradigmaları
-+ C++ dili standartları
++ C++ dili ve programlama paradigmaları _(C++ & programming paradigms)_
++ C++ dili standartları _(C++ standards)_
 + C++98 – 03
 + C++11
 + C++14
 + C++17
 + C++20
-+ eski C++ ve modern C++
++ eski C++ ve modern C++ _(ancient C++ vs. modern C++)_
 
 ## C Dili ve C++ İçindeki C Dili _(C in C++)_
-+ C dilinden C++ diline geçiş
-+ işlev bildirimleri ve tanımlamalarına ilişkin farklılıklar
-+ türlere ve tür dönüşümlerine ilişkin farklılıklar
-+ C’de geçerli C++’da geçersiz durumlar
++ C dilinden C++ diline geçiş _(transition from C to C++)_
++ işlev bildirimleri ve tanımlamalarına ilişkin farklılıklar _(incompatibilities related to functions)_
++ türlere ve tür dönüşümlerine ilişkin farklılıklar _(incompatibilities related to types & type conversions)_
++ C’de geçerli C++’da geçersiz durumlar _(C but not C++)_
 + C99 ve C++
 
 ## Temel Kavramlar _(Basic Concepts)_
@@ -38,6 +38,15 @@
 + kopyalama ile ilk değer verme _(copy initialization)_
 + varsayılan ilk değer verme _(default initialization)_
 + bileşiklere ilk değer verme _(aggregate initialization)_
+
+## Değer Kategorileri (Value Categories)
++ birincil değer kategorileri
+  + lvalue
+  + prvalue
+  + xvalue
++ bileşik değer kategorileri
+  + glvalue
+  + rvalue
 
 ## Tür Çıkarımı _(Type Deduction)_
 + auto belirteci ile tür çıkarımı _(auto type deduction)_
@@ -66,6 +75,8 @@
 + referanslar ile göstericilerin karşılaştırılması _(differences between pointers & references)_
 + parametresi referans olan işlevler _(function with reference parameters)_
 + referans döndüren işlevler _(function returning references)_
++ boşa düşen referans _(dangling reference)_
++ lifetime extension
 
 ## İşlev Yüklemesi _(Function Overloading)_
 + genel kurallar
@@ -126,8 +137,8 @@ sınıflar ve isim arama _(classes & name lookup)_
   + move constructor _(taşıyan kurucu işlev)_
   + copy assignment _(kopyalayan atama işlevi)_
   + move assignment _(taşıyan atama işlevi)_
-+ özel işlevlerin default edilmesi
-+ özel işlevlerin delete edilmesi
++ özel işlevlerin default edilmesi _(defaulting special member functions)_
++ özel işlevlerin delete edilmesi _(deleting special member functions)_
 + sınıflar ve taşıma semantiği _(move semantics)_
 + _rule of zero_
 + _rule of five_
