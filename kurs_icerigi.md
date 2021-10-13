@@ -379,7 +379,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 + sıralama ile ilgili algoritmalar _(sorting algorithms)_
 + sıralanmış aralıklar üzerinde koşturulan algoritmalar _(sorted range algorithms)_
 + nümerik algoritmalar _(numeric algorithms)_
-+ algoritmaların lambda ifadelerini kullanması _(algorithms & lambda expressions)
++ algoritmaların lambda ifadelerini kullanması _(algorithms & lambda expressions)_
 
 ## Lambda İfadeleri _(Lambda Expressions)_
 + kapanış türleri ve kapanış nesneleri _(closure types and closure objects)_
