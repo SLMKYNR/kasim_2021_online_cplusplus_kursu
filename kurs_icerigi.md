@@ -23,7 +23,7 @@
 + tek tanımlama kuralı _(one definition rule)_
 + ifadelerin değer kategorileri _(value categories)_
 + tanımsız davranış _(undefined behavior)_
-+ derleyiciye bağlı davranışlar. _(implementation defined & implementaion specified)_
++ derleyiciye bağlı davranışlar _(implementation defined & implementaion specified)_
 + derleyici eklentileri _(compiler extensions)_
 + kapsam ve isim arama _(scope & name lookup)_
 + erişim kontrolü _(access control)_
@@ -34,7 +34,7 @@
   + daraltıcı dönüşümler _(narrowing conversions)_
   + _most vexing parse_
 + doğrudan ilk değer verme _(direct intialization)_
-+ değerle başlatma _value initialization_
++ değerle başlatma _(value initialization)_
 + kopyalama ile ilk değer verme _(copy initialization)_
 + varsayılan ilk değer verme _(default initialization)_
 + bileşiklere ilk değer verme _(aggregate initialization)_
@@ -52,7 +52,7 @@
 + enum sınıfları ve kapsam _(enum classes & scope)_
 
 ## Sabit İfadeleri _(Constant Expressions)_
-+ const anahtar sözcüğü ve const semantiği
++ const anahtar sözcüğü ve const semantiği _(const qualifier and const semantics)_
 + const nesneler _(const objects)_
 + constexpr anahtar sözcüğü _(constexpr specifier)_
 + constexpr işlevler _(constexpr functions)_
@@ -63,8 +63,8 @@
 + sol taraf referansları _(L value references)_
 + sağ taraf referansları _(R value references)_
 + referanslar ve const semantiği _(references & const semantics)_
-+ referanslar ile göstericilerin karşılaştırılması
-+ parametresi referans olan işlevler (function with reference parameters)_
++ referanslar ile göstericilerin karşılaştırılması _(differences between pointers & references)_
++ parametresi referans olan işlevler _(function with reference parameters)_
 + referans döndüren işlevler _(function returning references)_
 
 ## İşlev Yüklemesi _(Function Overloading)_
@@ -103,7 +103,7 @@ sınıflar ve isim arama _(classes & name lookup)_
   + delege eden kurucu işlevler _(delegating constructors)_
   + explicit kurucu işlevler _(explicit constructors)_
 + sınıfların sonlandırıcı işlevleri _(destructors)_
-+ üye işlevlerin çağrılması
++ üye işlevlerin çağrılması _(member function calls)_
 +  sınıflar ve const doğruluğu _(classes & const correctness)_
   + const sınıf nesneleri _(const objects)_
   + const üye fonksiyonlar _(const member fuctions)_
@@ -112,10 +112,11 @@ sınıflar ve isim arama _(classes & name lookup)_
 + mutable anahtar sözcüğü _(mutable keyword)_
 + friend bildirimi _(friend declarations)_ 
   + friend bildirimi ve veri gizleme _(friend declarations)_
-  + global işlevlere friend bildirimi 
-  + sınıfların üye işlevlerine friend bildirimi
-  + sınıflara friend bildirimi
+  + global işlevlere friend bildirimi _(friend global function declarations)_
+  + sınıfların üye işlevlerine friend bildirimi _(friend class member function declrations)_
+  + sınıflara friend bildirimi _(friend class declarations)_
   + avukat-müvekkil idiyomu _(attorney-client idiom)_
+
 
 ## Sınıfların Özel Üye İşlevleri ve Kopyalama İşlemleri _(Special Member Functions & Copy Control)_
 + sınıfların özel işlevleri
@@ -133,15 +134,15 @@ sınıflar ve isim arama _(classes & name lookup)_
 + kopyala takas et idiyomu _(copy & swap idiom)_
 + kopyalamanın eliminasyonu _(copy elision)_
   + zorunlu kopyalama eliminasyonu _(mandatory copy elision)_
-
 ## Operatör Yüklemesi _(Operator Overloading)_
+
 + operatör yüklemesine ilişkin genel kurallar
-+ üye operatör fonksiyonları
++ üye operatör fonksiyonları _(member operator functions)_
 + global operatör fonksiyonları _(global operator functions)_
 + aritmetik operatörlerin yüklenmesi
-+ karşılaştırma operatörlerinin yüklenmesi
++ karşılaştırma operatörlerinin yüklenmesi _(overloading of relational operators)_
 + "++" ve "--" operatörlerinin yüklenmesi
-+ ok operatörü ve içerik operatörlerinin yüklenmesi
++ ok operatörü ve içerik operatörlerinin yüklenmesi 
 + [] operatörünün yüklenmesi
 + fonksiyon çağrı operatörünün yüklenmesi
 + tür dönüştürme operatör fonksiyonları _(type-cast operator functions)_
@@ -309,7 +310,7 @@ sınıflar ve isim arama _(classes & name lookup)_
   + output iterator
   + forward iterator
   + bidirectional iterator
-  random access iterator
+  + random access iterator
 + kapların begin ve end işlevleri
 + global begin ve end işlevleri
 + iterator işlevleri
@@ -367,7 +368,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 + sıralama ile ilgili algoritmalar _(sorting algorithms)_
 + sıralanmış aralıklar üzerinde koşturulan algoritmalar _(sorted range algorithms)_
 + nümerik algoritmalar _(numeric algorithms)_
-+ algoritmaların lambda ifadelerini kullanması
++ algoritmaların lambda ifadelerini kullanması _(algorithms & lambda expressions)
 
 ## Lambda İfadeleri _(Lambda Expressions)_
 + kapanış türleri ve kapanış nesneleri _(closure types and closure objects)_
@@ -378,6 +379,9 @@ sınıflar ve isim arama _(classes & name lookup)_
 + capture _*this_
 + mutable lambdalar
 + trailing return type
++ constexpr lambda ifadeleri
++ templated lambda (C++20)
++ lambda expressions in unevaluated context
 + genelleştirilmiş lambda ifadeleri _(generalized lambda expressions)_
 + algoritmalarda lambda ifadelerinin kullanımı
 + lambda ifadeleri C++11/14/17/20
@@ -386,7 +390,7 @@ sınıflar ve isim arama _(classes & name lookup)_
 ## Akıllı Gösterici Sınıfları _(Standard Smart Pointer Classes)_
 + unique_ptr sınıfı
   + std::make_unique işlev şablonu
-  + std::default_delete ve custom deleters
+  + std::default_delete & custom deleters
   + tipik hatalar
 + shared_ptr sınıfı
   + referans sayımı _(reference counting)_
