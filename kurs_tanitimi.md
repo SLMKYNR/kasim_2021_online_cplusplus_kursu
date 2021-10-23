@@ -65,7 +65,7 @@ gibi kurumlar yer almaktadır.
 __C++__ kursu ilgili eğitim materyalleri program süresince öğrencilerle paylaşılmaktadır. Derslerde yazılan tüm kodlar ve verilen ödevler katılımcılar ile __github__ üzerinden paylaşılmaktadır.
 
 ## Eğitim Ücreti
-Programın toplam ücreti __4.500 TL__'dir. Öğrenci olanlar için kurs ücreti __4.000 TL__'dir. 
+Programın toplam ücreti __4.500 TL__'dir. Öğrenci olanlar için kurs ücreti __4.000 TL__'dir. Kurumsal katılımlarda kurs ücretine KDV dahil değildir. Bireysel katılımlarda kurs ücretine KDV dahildir. 
 
 ## Eğitim Programına Kayıt
 __[Katılım için önce ön kayıt yaptırmalısınız](https://us02web.zoom.us/meeting/register/tZcldOGoqz8iHdaXA2hgmumQHwZ_f1R3WQTo)__. Ön kayıt yaptırırken kendi isminizi ve e-posta adresinizi kullanmalısınız.
